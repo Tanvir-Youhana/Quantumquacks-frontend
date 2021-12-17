@@ -1,0 +1,21 @@
+body {
+  background-color: #001a34 !important;
+}
+.app__header {
+  display: flex;
+  color: orange;
+}
+.app__logo {
+  margin-left: "25px";
+  margin-top: "1px";
+  width: 75px;
+  display: flex;
+}
+.app_title {
+  display: flex;
+  margin-top: 25px;
+  align-content: center;
+  align-items: baseline;
+  margin: center;
+  font-size: xx-large;
+}
