@@ -101,7 +101,7 @@ export default function FormDialog() {
           <TextField
             autoFocus
             label="Ticker name"
-            placeholder="Enter Ticker name  ex: APPL"
+            placeholder="Enter Ticker name  ex: AAPL"
             fullWidth
             variant="standard"
             onChange={(e) => {

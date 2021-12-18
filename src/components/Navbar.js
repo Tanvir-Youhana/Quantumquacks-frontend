@@ -257,7 +257,6 @@ function Navbar() {
               to="/IPOcalendar"
             >
               IPO Calendar
-              Home
             </Button>
           </Stack>
 
