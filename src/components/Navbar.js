@@ -161,6 +161,7 @@ function Navbar() {
     }
     const ticker = input.toUpperCase();
     history.push("/chart/" + ticker + "");
+    window.location.reload();
   };
 
   return (
